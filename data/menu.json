@@ -1,6 +1,6 @@
 {
  "source": "https://snuco.snu.ac.kr/foodmenu/",
- "fetchedAt": "2026-11-19T11:27+09:00",
+ "fetchedAt": "2026-11-19T18:11+09:00",
  "days": {
   "2026-11-19": [
    {
@@ -4631,6 +4631,66 @@
    {
     "name": "자하연식당 3층",
     "meals": {
+     "lunch": {
+      "items": [
+       {
+        "name": "곤드레영양밥(#)",
+        "price": 12000
+       },
+       {
+        "name": "갈비탕",
+        "price": 14000
+       },
+       {
+        "name": "<+세미뷔페>",
+        "price": null
+       },
+       {
+        "name": "마파두부",
+        "price": null
+       },
+       {
+        "name": "치커리파프리카무침",
+        "price": null
+       },
+       {
+        "name": "구운김",
+        "price": null
+       },
+       {
+        "name": "배추된장국",
+        "price": null
+       },
+       {
+        "name": "후식",
+        "price": null
+       },
+       {
+        "name": "<뷔페 특성상 메뉴의 조기품절",
+        "price": null
+       },
+       {
+        "name": "가능성이 있으니 양해 부탁드립니다>",
+        "price": null
+       }
+      ],
+      "notes": [
+       "운영시간 : 11:30~14:00",
+       "혼잡시간 : 11:30~12:30"
+      ],
+      "hours": [
+       [
+        "11:30",
+        "14:00"
+       ]
+      ],
+      "crowd": [
+       [
+        "11:30",
+        "12:30"
+       ]
+      ]
+     },
      "dinner": {
       "items": [],
       "notes": [
@@ -4647,12 +4707,12 @@
      "lunch": {
       "items": [
        {
-        "name": ":",
-        "price": null
+        "name": "낙지연포탕(#)",
+        "price": 6000
        },
        {
-        "name": ":",
-        "price": null
+        "name": "고추장숙주불고기",
+        "price": 6000
        }
       ],
       "notes": [
@@ -4675,8 +4735,8 @@
      "dinner": {
       "items": [
        {
-        "name": ":",
-        "price": null
+        "name": "라면사리모듬햄부대찌개",
+        "price": 6000
        }
       ],
       "notes": [
@@ -7264,6 +7324,66 @@
    {
     "name": "자하연식당 3층",
     "meals": {
+     "lunch": {
+      "items": [
+       {
+        "name": "맑은수육곰탕",
+        "price": 13000
+       },
+       {
+        "name": "뚝배기쭈꾸미알쌈(#)",
+        "price": 15000
+       },
+       {
+        "name": "<+세미뷔페>",
+        "price": null
+       },
+       {
+        "name": "계란말이",
+        "price": null
+       },
+       {
+        "name": "참나물겉절이",
+        "price": null
+       },
+       {
+        "name": "과일사과샐러드",
+        "price": null
+       },
+       {
+        "name": "미역국",
+        "price": null
+       },
+       {
+        "name": "후식",
+        "price": null
+       },
+       {
+        "name": "<뷔페 특성상 메뉴의 조기품절",
+        "price": null
+       },
+       {
+        "name": "가능성이 있으니 양해 부탁드립니다>",
+        "price": null
+       }
+      ],
+      "notes": [
+       "운영시간 : 11:30~14:00",
+       "혼잡시간 : 11:30~12:30"
+      ],
+      "hours": [
+       [
+        "11:30",
+        "14:00"
+       ]
+      ],
+      "crowd": [
+       [
+        "11:30",
+        "12:30"
+       ]
+      ]
+     },
      "dinner": {
       "items": [],
       "notes": [
@@ -7280,12 +7400,12 @@
      "lunch": {
       "items": [
        {
-        "name": ":",
-        "price": null
+        "name": "짬뽕순두부(#)",
+        "price": 5500
        },
        {
-        "name": ":",
-        "price": null
+        "name": "갈비구이",
+        "price": 6000
        }
       ],
       "notes": [
@@ -7308,8 +7428,8 @@
      "dinner": {
       "items": [
        {
-        "name": ":",
-        "price": null
+        "name": "오리주물럭",
+        "price": 6500
        }
       ],
       "notes": [
@@ -7379,6 +7499,210 @@
        [
         "17:00",
         "18:30"
+       ]
+      ],
+      "crowd": []
+     }
+    }
+   },
+   {
+    "name": "두레미담",
+    "meals": {
+     "lunch": {
+      "items": [
+       {
+        "name": "<셀프코너> 7,000원",
+        "price": null
+       },
+       {
+        "name": "잡곡밥",
+        "price": null
+       },
+       {
+        "name": "뜨끈닭곰탕",
+        "price": null
+       },
+       {
+        "name": "통삼겹동파육",
+        "price": null
+       },
+       {
+        "name": "갈비맛잎새만두튀김",
+        "price": null
+       },
+       {
+        "name": "고구마치즈떡볶이",
+        "price": null
+       },
+       {
+        "name": "고추지무침",
+        "price": null
+       },
+       {
+        "name": "깍두기",
+        "price": null
+       },
+       {
+        "name": "오늘의차",
+        "price": null
+       },
+       {
+        "name": "<주문식 메뉴>",
+        "price": null
+       },
+       {
+        "name": "고등어 소금구이",
+        "price": 14000
+       },
+       {
+        "name": "철판주꾸미 볶음",
+        "price": 15000
+       },
+       {
+        "name": "철판제육볶음",
+        "price": 15000
+       },
+       {
+        "name": "떡갈비 구이",
+        "price": 16000
+       },
+       {
+        "name": "소갈비탕",
+        "price": 19000
+       },
+       {
+        "name": "7선 산채비빔밥",
+        "price": 16000
+       },
+       {
+        "name": "소불고기뚝배기",
+        "price": 15000
+       },
+       {
+        "name": "차돌순두부",
+        "price": 12000
+       },
+       {
+        "name": "육짬뽕",
+        "price": 12000
+       },
+       {
+        "name": "솥밥(추가)",
+        "price": 2000
+       }
+      ],
+      "notes": [
+       "운영시간 : 11:00~14:00",
+       "혼잡시간 : 12:00~12:30"
+      ],
+      "hours": [
+       [
+        "11:00",
+        "14:00"
+       ]
+      ],
+      "crowd": [
+       [
+        "12:00",
+        "12:30"
+       ]
+      ]
+     },
+     "dinner": {
+      "items": [
+       {
+        "name": "<셀프코너> 7,000원",
+        "price": null
+       },
+       {
+        "name": "잡곡밥",
+        "price": null
+       },
+       {
+        "name": "나가사끼짬뽕탕",
+        "price": null
+       },
+       {
+        "name": "직화오삼불고기",
+        "price": null
+       },
+       {
+        "name": "달콤후르츠탕수육",
+        "price": null
+       },
+       {
+        "name": "오이지무침",
+        "price": null
+       },
+       {
+        "name": "통식빵허니브레드",
+        "price": null
+       },
+       {
+        "name": "깍두기",
+        "price": null
+       },
+       {
+        "name": "그린샐러드",
+        "price": null
+       },
+       {
+        "name": "오늘의차",
+        "price": null
+       },
+       {
+        "name": "<주문식 메뉴>",
+        "price": null
+       },
+       {
+        "name": "고등어 소금구이",
+        "price": 14000
+       },
+       {
+        "name": "철판주꾸미 볶음",
+        "price": 15000
+       },
+       {
+        "name": "철판제육볶음",
+        "price": 15000
+       },
+       {
+        "name": "떡갈비 구이",
+        "price": 16000
+       },
+       {
+        "name": "소갈비탕",
+        "price": 19000
+       },
+       {
+        "name": "7선 산채비빔밥",
+        "price": 16000
+       },
+       {
+        "name": "소불고기뚝배기",
+        "price": 15000
+       },
+       {
+        "name": "차돌순두부",
+        "price": 12000
+       },
+       {
+        "name": "육짬뽕",
+        "price": 12000
+       },
+       {
+        "name": "솥밥(추가)",
+        "price": 2000
+       }
+      ],
+      "notes": [
+       "운영시간 : 17:00~19:00",
+       "주문식 라스트 오더 : 19:15"
+      ],
+      "hours": [
+       [
+        "17:00",
+        "19:00"
        ]
       ],
       "crowd": []
